@@ -1,2 +1,2 @@
 # WhoIsMyCharacter
-A simple D&amp;D character creator.
+A simple D&amp;D random character creator.

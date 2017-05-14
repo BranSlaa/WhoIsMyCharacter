@@ -1,0 +1,13 @@
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\bin\Release\WhoIsMyDnDCharacter.exe.config
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\bin\Release\WhoIsMyDnDCharacter.exe
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\bin\Release\WhoIsMyDnDCharacter.pdb
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\MainWindow.g.cs
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\App.g.cs
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter_MarkupCompile.cache
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter_MarkupCompile.lref
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\MainWindow.baml
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter.g.resources
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter.Properties.Resources.resources
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter.csproj.GenerateResource.Cache
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter.exe
+E:\Programming\WhoIsMyDnDCharacter\WhoIsMyDnDCharacter\obj\Release\WhoIsMyDnDCharacter.pdb
